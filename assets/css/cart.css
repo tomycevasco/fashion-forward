@@ -1,0 +1,132 @@
+/* ============================================================
+   FASHION FORWARD — CARRITO Y CONTACTO
+   Paginas compartidas: usan la piel neutra de Fashion Forward
+   (no la de ninguna marca) porque son transversales al sitio.
+   ============================================================ */
+body.page{
+  --b-ink:var(--ff-ink);--b-bg:var(--ff-bone);--b-soft:#FFFFFF;
+  --b-line:#DED7CC;--b-muted:var(--ff-muted);--b-accent:var(--ff-accent);
+  --b-font:'Inter',system-ui,sans-serif;
+  --b-display:'Bodoni Moda',Georgia,serif;
+  --b-radius:3px;
+  background:var(--ff-bone);color:var(--ff-ink);
+  font-family:var(--b-font);line-height:1.6;padding-top:66px
+}
+body.page h1,body.page h2,body.page h3{font-family:var(--b-display);font-weight:400}
+
+/* ---------------- header simple ---------------- */
+.pghead{
+  position:fixed;top:0;left:0;right:0;z-index:60;height:66px;
+  background:rgba(244,241,236,.92);backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--b-line)
+}
+.pghead__inner{
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;height:100%;
+  max-width:var(--maxw);margin-inline:auto;padding-inline:var(--pad)
+}
+.pghead__logo{font-family:var(--b-display);font-size:1rem;letter-spacing:.2em;text-transform:uppercase;white-space:nowrap}
+.pghead__logo em{font-style:italic;letter-spacing:.08em}
+.pghead__actions{display:flex;align-items:center;gap:.3rem}
+.pghead__link{
+  display:none;align-items:center;gap:.4rem;font-size:.68rem;
+  letter-spacing:.16em;text-transform:uppercase;font-weight:600
+}
+@media(min-width:620px){.pghead__link{display:inline-flex}}
+.pghead__link:hover{color:var(--b-accent)}
+.pghead__btn{position:relative;width:44px;height:44px;display:grid;place-items:center;border-radius:100px}
+.pghead__btn:hover{background:rgba(18,16,14,.07)}
+
+/* ---------------- layout ---------------- */
+.pgmain{max-width:var(--maxw);margin-inline:auto;padding:2rem var(--pad) 4rem;min-height:70vh}
+.pgtitle{font-size:clamp(2rem,6.5vw,3.4rem);line-height:1;margin:.8rem 0 .3rem}
+.pgsub{font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--b-muted);margin-bottom:1.6rem}
+
+/* ---------------- tabs de marca ---------------- */
+.ctabs{display:flex;gap:.4rem;flex-wrap:wrap;margin-bottom:1.8rem;border-bottom:1px solid var(--b-line);padding-bottom:.9rem}
+.ctab{
+  display:inline-flex;align-items:center;gap:.5rem;min-height:44px;padding:0 1rem;
+  border:1px solid var(--b-line);border-radius:100px;background:#fff;
+  font-size:.78rem;font-weight:500;transition:all .3s var(--ease)
+}
+.ctab:hover{border-color:var(--b-ink)}
+.ctab.is-on{background:var(--b-ink);border-color:var(--b-ink);color:var(--ff-bone)}
+.ctab b{
+  min-width:20px;height:20px;padding:0 5px;display:grid;place-items:center;border-radius:100px;
+  background:var(--b-accent);color:#fff;font-size:.65rem;font-weight:700
+}
+.ctab.is-on b{background:var(--ff-bone);color:var(--ff-ink)}
+
+/* ---------------- grilla carrito ---------------- */
+.cart{display:grid;gap:2rem;align-items:start}
+@media(min-width:960px){.cart{grid-template-columns:1.5fr .8fr;gap:3rem}}
+
+.cline{
+  display:grid;grid-template-columns:88px 1fr;gap:1rem;
+  padding:1.1rem 0;border-bottom:1px solid var(--b-line)
+}
+@media(min-width:640px){.cline{grid-template-columns:112px 1fr auto;align-items:center;gap:1.3rem}}
+.cline__img{aspect-ratio:1/1;background:#fff;border-radius:var(--b-radius);overflow:hidden}
+.cline__img img{width:100%;height:100%;object-fit:contain;padding:7%;mix-blend-mode:multiply}
+.cline__img.is-tall img{object-fit:cover;object-position:top center;padding:0;transform:scale(1.06);transform-origin:top center}
+.cline__info{display:flex;flex-direction:column;gap:.3rem;min-width:0}
+.cline__title{font-size:.95rem;font-weight:500;line-height:1.35}
+.cline__title:hover{color:var(--b-accent)}
+.cline__meta{display:flex;flex-wrap:wrap;gap:.5rem;font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--b-muted)}
+.cline__unit{font-size:.8rem;color:var(--b-muted)}
+.cline__ctrl{display:flex;align-items:center;gap:.8rem;margin-top:.5rem;grid-column:1/-1}
+@media(min-width:640px){.cline__ctrl{grid-column:auto;margin-top:0;flex-direction:column;align-items:flex-end;gap:.6rem}}
+.cline__sub{font-size:1.05rem;font-weight:600;white-space:nowrap}
+.cline__del{
+  display:inline-flex;align-items:center;gap:.35rem;font-size:.7rem;
+  letter-spacing:.1em;text-transform:uppercase;color:var(--b-muted);
+  padding:.5rem;border-radius:var(--b-radius);margin-left:auto
+}
+@media(min-width:640px){.cline__del{margin-left:0}}
+.cline__del:hover{color:#B3261E}
+
+/* ---------------- resumen ---------------- */
+.csum{background:#fff;border:1px solid var(--b-line);border-radius:var(--b-radius);padding:1.5rem 1.3rem}
+@media(min-width:960px){.csum{position:sticky;top:calc(66px + 1.5rem)}}
+.csum__title{font-size:1.3rem;margin-bottom:1.2rem}
+.csum__row{display:flex;justify-content:space-between;gap:1rem;padding:.55rem 0;font-size:.9rem;color:var(--b-muted)}
+.csum__row--total{
+  border-top:1px solid var(--b-line);margin-top:.6rem;padding-top:1rem;
+  font-size:1.25rem;font-weight:700;color:var(--b-ink)
+}
+.csum__actions{display:flex;flex-direction:column;gap:.6rem;margin-top:1.3rem}
+.csum__note{margin-top:1rem;font-size:.76rem;color:var(--b-muted);line-height:1.65}
+.btn--mp{background:#009EE3;border-color:#009EE3;color:#fff}
+.btn--mp:hover{background:#0089c7;border-color:#0089c7;color:#fff}
+.csum__clear{
+  margin-top:1rem;font-size:.7rem;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--b-muted);text-decoration:underline
+}
+.csum__clear:hover{color:#B3261E}
+
+/* ---------------- vacio ---------------- */
+.cempty{
+  text-align:center;padding:4rem 1rem;display:flex;flex-direction:column;
+  align-items:center;gap:1.2rem
+}
+.cempty h2{font-size:1.8rem}
+.cempty p{color:var(--b-muted);max-width:44ch}
+.cempty__links{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;margin-top:.5rem}
+
+/* ---------------- contacto ---------------- */
+.pgcontact{display:grid;gap:2.5rem}
+@media(min-width:960px){.pgcontact{grid-template-columns:.8fr 1.2fr;gap:4rem}}
+.pgcontact .contact__info{display:flex;flex-direction:column;gap:1.4rem}
+
+/* ---------------- footer simple ---------------- */
+.pgfoot{
+  background:var(--ff-ink);color:var(--ff-bone);
+  padding:2.2rem 0 2rem;margin-top:2rem
+}
+.pgfoot__inner{
+  max-width:var(--maxw);margin-inline:auto;padding-inline:var(--pad);
+  display:flex;flex-direction:column;gap:1rem;font-size:.8rem
+}
+@media(min-width:720px){.pgfoot__inner{flex-direction:row;align-items:center;justify-content:space-between}}
+.pgfoot__links{display:flex;flex-wrap:wrap;gap:1.2rem}
+.pgfoot__links a:hover{text-decoration:underline}
+.pgfoot span{color:rgba(244,241,236,.55)}

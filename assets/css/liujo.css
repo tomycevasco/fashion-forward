@@ -1,0 +1,44 @@
+/* ============================================================
+   LIU JO — piel visual
+   Inspirado en la identidad de la casa: femenino y glamouroso,
+   negro con dorado, tipografia display de revista de moda.
+   (Interpretacion propia, sin assets ni logos de la marca.)
+   ============================================================ */
+body.brand--liujo{
+  --b-ink:#161314;
+  --b-bg:#FFFDFC;
+  --b-soft:#F6F1EB;
+  --b-line:#E7DED2;
+  --b-muted:#8A8079;
+  --b-accent:#B08542;
+  --b-accent-soft:#D9BE8A;
+  --b-hero-bg:#161314;
+  --b-font:'Jost','Inter',system-ui,sans-serif;
+  --b-display:'Italiana',Georgia,serif;
+  --b-radius:2px;
+  --b-track:.01em;
+  --b-logo-track:.3em;
+  --b-title-track:0;
+  --b-strip-muted:rgba(255,253,252,.66);
+  --b-strip-line:rgba(255,253,252,.16);
+  --sel:#B08542;--sel-fg:#fff;
+}
+/* hero en negro con acentos dorados */
+body.brand--liujo .bhero{color:#FFFDFC}
+body.brand--liujo .bhero__eyebrow{color:var(--b-accent-soft)}
+body.brand--liujo .bhero__text{color:rgba(255,253,252,.72)}
+body.brand--liujo .bhero__meta{border-color:rgba(255,253,252,.2)}
+body.brand--liujo .bhero__meta span{color:rgba(255,253,252,.55)}
+body.brand--liujo .bhero .btn{border-color:#FFFDFC;color:#FFFDFC}
+body.brand--liujo .bhero .btn:hover{background:#FFFDFC;color:var(--b-ink)}
+body.brand--liujo .bhero .btn--solid{background:var(--b-accent);border-color:var(--b-accent);color:#161314}
+body.brand--liujo .bhero .btn--solid:hover{background:#D9BE8A;border-color:#D9BE8A;color:#161314}
+body.brand--liujo .bhero__media{background:#FFFDFC}
+body.brand--liujo .bhero::after{
+  content:'';position:absolute;left:0;right:0;bottom:0;height:2px;
+  background:linear-gradient(90deg,transparent,var(--b-accent),transparent)
+}
+body.brand--liujo .bhero__title{letter-spacing:.02em}
+body.brand--liujo .bheader__logo{font-size:1.5rem}
+body.brand--liujo .bhero__title em{font-style:normal;color:var(--b-accent-soft)}
+body.brand--liujo .bcat__n{font-family:var(--b-display);font-size:1.15rem}

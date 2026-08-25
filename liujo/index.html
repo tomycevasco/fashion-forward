@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Liu Jo — Ropa, carteras y accesorios | Fashion Forward</title>
+<meta name="description" content="Catálogo Liu Jo en Fashion Forward: vestidos, camperas, sweaters, carteras y accesorios. Precios en pesos, envíos a todo el país.">
+<meta name="theme-color" content="#161314">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23161314'/%3E%3Ctext x='16' y='22' font-family='Georgia,serif' font-size='15' fill='%23B08542' text-anchor='middle'%3ELJ%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Italiana&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.css?v=2">
+<link rel="stylesheet" href="/assets/css/brand-base.css?v=2">
+<link rel="stylesheet" href="/assets/css/liujo.css?v=2">
+</head>
+
+<body class="brand brand--liujo" data-marca="liujo" data-page="brand-home">
+
+<main>
+  <section class="bhero">
+    <div class="bhero__inner">
+      <div>
+        <p class="bhero__eyebrow" data-reveal>Módena, Italia · glamour contemporáneo</p>
+        <h1 class="bhero__title" data-reveal>Brillar es<br>una <em>decisión</em></h1>
+        <p class="bhero__text" data-reveal>
+          Liu Jo es la marca más completa que tenemos: vestidos, camperas, sweaters, blusas
+          y una línea entera de carteras y accesorios con herrajes dorados.
+          Ropa italiana pensada para el día, la noche y todo lo que pasa en el medio.
+        </p>
+        <div class="bhero__cta" data-reveal>
+          <a class="btn btn--solid" href="#categorias">Ver categorías</a>
+          <button class="btn js-search-open" type="button">Buscar en Liu Jo</button>
+        </div>
+        <div class="bhero__meta" data-reveal>
+          <div><b data-brand-count>—</b><span>Piezas disponibles</span></div>
+          <div><b data-brand-catcount>—</b><span>Categorías</span></div>
+          <div><b data-brand-seccount>—</b><span>Secciones</span></div>
+        </div>
+      </div>
+      <figure class="bhero__media" data-reveal>
+        <img src="/assets/img/liujo/ropa_liujo_3.jpeg" alt="Vestido Liu Jo" loading="eager" decoding="async">
+      </figure>
+    </div>
+  </section>
+
+  <section class="bsec" id="categorias">
+    <div class="bsec__head">
+      <div>
+        <p class="eyebrow" data-reveal>Catálogo</p>
+        <h2 class="sec-title" data-reveal>Ropa, carteras y accesorios</h2>
+      </div>
+      <p class="bhero__text" style="margin:0" data-reveal>Tres secciones, todo el catálogo Liu Jo.</p>
+    </div>
+    <div class="bsec__body" data-brand-cats></div>
+  </section>
+
+  <section class="bstrip">
+    <div class="bstrip__inner">
+      <h2 data-reveal>Los talles de la sección ropa</h2>
+      <div>
+        <p data-reveal>
+          Vienen tal cual el catálogo original italiano: alfabéticos, de XS a XL, y cada prenda
+          muestra únicamente los talles que quedan en stock. Como las curvas son cortas,
+          lo que ves es literalmente lo que hay. Si te queda la duda entre dos talles,
+          escribinos y te decimos cómo calza esa prenda puntual.
+        </p>
+        <a class="btn" href="/contacto/" style="margin-top:1.2rem" data-reveal>Consultar un talle</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="bsec">
+    <div class="bsec__head">
+      <div>
+        <p class="eyebrow" data-reveal>Selección</p>
+        <h2 class="sec-title" data-reveal>Lo nuevo de la semana</h2>
+      </div>
+    </div>
+    <div class="bsec__body">
+      <div class="pgrid" data-brand-featured></div>
+    </div>
+  </section>
+</main>
+
+<script src="/assets/js/config.js?v=2"></script>
+<script src="/assets/js/core.js?v=2"></script>
+<script src="/assets/js/cart.js?v=2"></script>
+<script src="/assets/js/whatsapp.js?v=2"></script>
+<script src="/assets/js/product-loader.js?v=2"></script>
+<script src="/assets/js/search.js?v=2"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    FF.mountBrandChrome('liujo').then(function () {
+      FF.initBrandHome();
+      FF.mountFab();
+    });
+    FF.reveal();
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+/* ============================================================
+   BALLY — piel visual
+   Inspirado en la identidad de la casa: quiet luxury suizo,
+   grises y blancos, geometria limpia, el rojo historico como
+   unico acento. (Interpretacion propia, sin assets de la marca.)
+   ============================================================ */
+body.brand--bally{
+  --b-ink:#111213;
+  --b-bg:#FFFFFF;
+  --b-soft:#F1F1EF;
+  --b-line:#E1E1DE;
+  --b-muted:#75787B;
+  --b-accent:#C8102E;
+  --b-accent-soft:#E8798A;
+  --b-hero-bg:#F1F1EF;
+  --b-font:'Inter',system-ui,sans-serif;
+  --b-display:'Archivo','Inter',system-ui,sans-serif;
+  --b-radius:0px;
+  --b-track:0;
+  --b-logo-track:.34em;
+  --b-title-track:-.035em;
+  --b-strip-muted:rgba(255,255,255,.66);
+  --b-strip-line:rgba(255,255,255,.18);
+  --sel:#C8102E;--sel-fg:#fff;
+}
+body.brand--bally h1,body.brand--bally h2,body.brand--bally h3{font-weight:600}
+body.brand--bally .bhero__title,
+body.brand--bally .cat-title{text-transform:uppercase;font-weight:600}
+body.brand--bally .bheader__logo{font-weight:700;font-size:1.15rem}
+body.brand--bally .bhero__title em{font-style:normal;color:var(--b-accent)}
+/* barra roja: guiño al color historico de la casa */
+body.brand--bally .bhero::before{
+  content:'';position:absolute;left:0;top:0;bottom:0;width:6px;background:var(--b-accent);z-index:2
+}
+body.brand--bally .btn{letter-spacing:.1em}
+body.brand--bally .bcat__n{letter-spacing:-.01em;font-weight:600}

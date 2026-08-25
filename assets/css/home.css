@@ -1,0 +1,122 @@
+/* ============================================================
+   FASHION FORWARD — HOME (landing multimarca)
+   Version simplificada: foco unico en las 3 marcas, sin librerias
+   de animacion pesadas. Escala tipografica estandar de web (no
+   clamps sobredimensionados). Identidad propia: hueso + tinta,
+   display Bodoni Moda + UI Inter.
+   ============================================================ */
+
+.home{
+  --b-ink:var(--ff-ink);--b-bg:var(--ff-bone);--b-soft:#EDE8E0;
+  --b-line:#DED7CC;--b-muted:var(--ff-muted);--b-accent:var(--ff-accent);
+  --b-font:'Inter',system-ui,sans-serif;
+  --b-display:'Bodoni Moda',Georgia,serif;
+  background:var(--ff-bone);color:var(--ff-ink);
+  font-family:var(--b-font);font-weight:400;line-height:1.6
+}
+.home h1,.home h2{font-family:var(--b-display);font-weight:400}
+
+/* ---------------- nav ---------------- */
+.ff-nav{
+  position:sticky;top:0;left:0;right:0;z-index:60;
+  background:rgba(244,241,236,.9);backdrop-filter:blur(10px);
+  border-bottom:1px solid transparent;
+  transition:border-color .3s var(--ease),box-shadow .3s var(--ease)
+}
+.ff-nav.is-solid{border-color:var(--b-line);box-shadow:0 1px 0 var(--b-line)}
+.ff-nav__inner{
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;
+  height:64px;max-width:var(--maxw);margin-inline:auto;padding-inline:var(--pad)
+}
+.ff-logo{
+  font-family:var(--b-display);font-size:1rem;letter-spacing:.14em;
+  text-transform:uppercase;line-height:1;white-space:nowrap
+}
+.ff-logo em{font-style:italic;letter-spacing:.06em}
+.ff-nav__actions{display:flex;align-items:center;gap:.15rem}
+.ff-nav__btn{
+  position:relative;width:42px;height:42px;display:grid;place-items:center;
+  border-radius:100px;transition:background .25s
+}
+.ff-nav__btn:hover{background:rgba(18,16,14,.07)}
+.ff-badge{
+  position:absolute;top:4px;right:3px;min-width:16px;height:16px;padding:0 4px;
+  display:grid;place-items:center;border-radius:100px;
+  background:var(--ff-accent);color:#fff;font-size:.6rem;font-weight:700;font-family:var(--b-font)
+}
+.ff-badge.is-empty{display:none}
+
+/* ---------------- hero ---------------- */
+.hero{padding:3.5rem 0 2.5rem;text-align:center}
+.hero__inner{max-width:640px;margin-inline:auto;padding-inline:var(--pad)}
+.hero__eyebrow{
+  font-size:.72rem;letter-spacing:.24em;text-transform:uppercase;
+  color:var(--ff-muted);margin-bottom:.9rem
+}
+.hero__title{
+  font-size:clamp(1.9rem,4.6vw,3rem);line-height:1.08;letter-spacing:-.01em;
+  margin-bottom:.9rem
+}
+.hero__title em{font-style:italic;color:var(--ff-accent)}
+.hero__sub{
+  max-width:44ch;margin-inline:auto;font-size:1rem;color:#4A443D
+}
+
+/* ---------------- marcas: bloque principal ---------------- */
+.brands-sec{padding:0 0 4.5rem}
+.brands{
+  max-width:var(--maxw);margin-inline:auto;padding-inline:var(--pad);
+  display:grid;gap:1.1rem
+}
+@media(min-width:860px){.brands{grid-template-columns:repeat(3,1fr);gap:1.4rem}}
+
+.bcard{
+  display:flex;flex-direction:column;background:#fff;
+  border:1px solid var(--b-line);border-radius:var(--r-md);overflow:hidden;
+  transition:transform .35s var(--ease),box-shadow .35s var(--ease),border-color .35s var(--ease)
+}
+.bcard:hover{
+  transform:translateY(-6px);
+  box-shadow:var(--shadow-2);border-color:var(--ff-ink)
+}
+.bcard__mark{
+  position:relative;aspect-ratio:4/3;display:flex;align-items:center;justify-content:center;
+  padding:12%;background:#fff;transition:background .35s var(--ease)
+}
+.bcard:hover .bcard__mark{background:var(--b-soft)}
+.bcard__mark img{
+  max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;
+  transition:transform .45s var(--ease)
+}
+.bcard:hover .bcard__mark img{transform:scale(1.06)}
+.bcard__foot{
+  display:flex;align-items:center;justify-content:space-between;gap:1rem;
+  padding:1.1rem 1.3rem;border-top:1px solid var(--b-line)
+}
+.bcard__claim{font-size:.84rem;color:var(--b-muted)}
+.bcard__go{
+  display:inline-flex;align-items:center;gap:.4rem;flex:none;
+  font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;font-weight:600;
+  color:var(--ff-ink)
+}
+.bcard__go .ic{transition:transform .35s var(--ease)}
+.bcard:hover .bcard__go .ic{transform:translateX(4px)}
+
+/* ---------------- footer ---------------- */
+.ff-footer{background:var(--ff-ink);color:var(--ff-bone);padding:2.6rem 0 1.4rem}
+.ff-footer__inner{
+  max-width:var(--maxw);margin-inline:auto;padding-inline:var(--pad);
+  display:grid;gap:1.8rem
+}
+@media(min-width:720px){.ff-footer__inner{grid-template-columns:1.4fr 1fr 1fr;gap:2rem}}
+.ff-footer__logo{font-family:var(--b-display);font-size:1.2rem;letter-spacing:.12em;text-transform:uppercase;margin-bottom:.5rem}
+.ff-footer__desc{color:#938C82;font-size:.86rem;line-height:1.65;max-width:36ch}
+.ff-footer__title{font-size:.64rem;letter-spacing:.18em;text-transform:uppercase;color:#938C82;margin-bottom:.8rem}
+.ff-footer__links{display:flex;flex-direction:column;gap:.5rem}
+.ff-footer__links a,.ff-footer__links span{font-size:.86rem;color:#D7D0C6}
+.ff-footer__links a:hover{color:#fff;text-decoration:underline}
+.ff-footer__bottom{
+  max-width:var(--maxw);margin:2rem auto 0;padding:1.1rem var(--pad) 0;
+  border-top:1px solid rgba(244,241,236,.16);
+  font-size:.72rem;color:#938C82
+}

@@ -1,0 +1,4078 @@
+{
+  "generado": "build_catalog.py",
+  "moneda": "ARS",
+  "furla": {
+    "nombre": "Furla",
+    "categorias": [
+      {
+        "id": "bolsos",
+        "nombre": "Bolsos",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 23,
+        "portada": "/assets/img/furla/carteras_furla_5.jpeg"
+      },
+      {
+        "id": "carteras",
+        "nombre": "Carteras",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 21,
+        "portada": "/assets/img/furla/carteras_furla_1.jpeg"
+      },
+      {
+        "id": "mochilas",
+        "nombre": "Mochilas",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 2,
+        "portada": "/assets/img/furla/carteras_furla_11.jpeg"
+      },
+      {
+        "id": "billeteras",
+        "nombre": "Billeteras",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 16,
+        "portada": "/assets/img/furla/carteras_furla_2.jpeg"
+      },
+      {
+        "id": "accesorios",
+        "nombre": "Accesorios",
+        "seccion": "Accesorios",
+        "seccion_id": "ARTICULOS",
+        "cantidad": 7,
+        "portada": "/assets/img/furla/arti_culos_furla_1.jpeg"
+      }
+    ],
+    "productos": [
+      {
+        "id": "furla-bolsos-001",
+        "titulo": "Bolso Furla Teddy",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01371RY000",
+        "precio": 675000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_5.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-002",
+        "titulo": "Bolso Furla Grey",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB012743291S",
+        "precio": 610000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Grey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_6.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-003",
+        "titulo": "Bolso Furla Pumpkin",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB012753231S",
+        "precio": 445000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pumpkin"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_15.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Pumpkin. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-004",
+        "titulo": "Bolso Furla Sofy Pink",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB012752814S",
+        "precio": 450000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Sofy Pink"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_18.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Sofy Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-005",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01246O6000",
+        "precio": 680000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_19.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-006",
+        "titulo": "Bolso Furla Pure White",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB014031704S",
+        "precio": 450000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pure White"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_20.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Pure White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-007",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01466O6000",
+        "precio": 595000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_21.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-008",
+        "titulo": "Bolso Furla White",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WE006471704S",
+        "precio": 270000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "White"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_25.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-009",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WE00647O6000",
+        "precio": 290000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_26.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-010",
+        "titulo": "Bolso Furla Teddy",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WE00662VAN00",
+        "precio": 380000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_27.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-011",
+        "titulo": "Bolso Furla Red Lollipop",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WE00649RT00",
+        "precio": 310000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Red Lollipop"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_32.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Red Lollipop. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-012",
+        "titulo": "Bolso Furla Pink",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB014033378S",
+        "precio": 488000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pink"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_33.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-013",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB00903O6000",
+        "precio": 480000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_34.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-014",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01274O6000",
+        "precio": 610000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_43.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-015",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01246O6000",
+        "precio": 675000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_45.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-016",
+        "titulo": "Bolso Furla Pumpkin",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB013733231S",
+        "precio": 450000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pumpkin"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_49.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Pumpkin. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-017",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01499O6000",
+        "precio": 399000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_52.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-018",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB01365O6000",
+        "precio": 542000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_57.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-019",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB00782O6000",
+        "precio": 410000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_59.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-020",
+        "titulo": "Bolso Furla Black",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WBO1337O6000",
+        "precio": 540000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_65.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-021",
+        "titulo": "Bolso Furla White",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB012461704S",
+        "precio": 675000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "White"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_67.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-022",
+        "titulo": "Bolso Furla White",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB0146617045",
+        "precio": 595000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "White"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_68.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-bolsos-023",
+        "titulo": "Bolso Furla Pinkgrey",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "WB012461257S",
+        "precio": 675000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pinkgrey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_39.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Furla original. Color Pinkgrey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-001",
+        "titulo": "Cartera Furla Teddy",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WP0031703B00",
+        "precio": 233000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_1.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-002",
+        "titulo": "Cartera Furla Metal Grey",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB00931Y3000",
+        "precio": 580000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Metal Grey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_3.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Metal Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-003",
+        "titulo": "Cartera Furla Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HAND BAG",
+        "codigo": "WP00441O6000",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_8.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-004",
+        "titulo": "Cartera Furla Dark Red",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE00644CGU00",
+        "precio": 290000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Red"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_23.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Dark Red. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-005",
+        "titulo": "Cartera Furla Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE00644O6000",
+        "precio": 290000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_24.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-006",
+        "titulo": "Cartera Furla Chrome",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HAND BAG",
+        "codigo": "WE0042343000",
+        "precio": 383000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Chrome"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_22.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Chrome. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-007",
+        "titulo": "Cartera Furla Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB00109O6000",
+        "precio": 540000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_38.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-008",
+        "titulo": "Cartera Furla Goldgrey",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB01282O6000",
+        "precio": 510000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Goldgrey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_36.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Goldgrey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-009",
+        "titulo": "Cartera Furla Pinkgrey",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB013378E000",
+        "precio": 540000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pinkgrey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_37.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Pinkgrey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-010",
+        "titulo": "Cartera Furla Chrome",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE00528Y3000",
+        "precio": 295000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Chrome"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_40.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Chrome. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-011",
+        "titulo": "Cartera Furla Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB01244O6000",
+        "precio": 460000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_42.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-012",
+        "titulo": "Cartera Furla Chrome",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB01244Y3000",
+        "precio": 525000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Chrome"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_44.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Chrome. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-013",
+        "titulo": "Cartera Furla Cream",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB01246BX20458E000",
+        "precio": 680000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cream"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_46.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Cartera Furla original. Color Cream. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-014",
+        "titulo": "Cartera Furla Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WB01273O6000",
+        "precio": 680000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_47.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Cartera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-015",
+        "titulo": "Cartera Furla Pink",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE004542720S",
+        "precio": 275000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pink"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_51.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-016",
+        "titulo": "Cartera Furla Darkblue",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HAND BAG",
+        "codigo": "BAFKACO2676S",
+        "precio": 460000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Darkblue"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_53.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Darkblue. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-017",
+        "titulo": "Cartera Furla White",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE005181704S",
+        "precio": 280000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "White"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_58.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-018",
+        "titulo": "Cartera Furla Camellrose",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "BAFIACOAREB4L001007",
+        "precio": 525000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Camellrose"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_60.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Camellrose. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-019",
+        "titulo": "Cartera Furla Whitegold",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE0068906000",
+        "precio": 345000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Whitegold"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_61.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Whitegold. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-020",
+        "titulo": "Cartera Furla Whitegold",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WE00689CGD00",
+        "precio": 345000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Whitegold"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_62.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Whitegold. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-carteras-021",
+        "titulo": "Cartera Furla Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "WBO1337O6000",
+        "precio": 455000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_66.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-mochilas-001",
+        "titulo": "Mochila Furla Teddy",
+        "categoria": "mochilas",
+        "seccion": "CARTERAS",
+        "tipo": "BACK PACK",
+        "codigo": "WB01084RY000",
+        "precio": 645000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_11.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Mochila Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-mochilas-002",
+        "titulo": "Mochila Furla Black",
+        "categoria": "mochilas",
+        "seccion": "CARTERAS",
+        "tipo": "BACK PACK",
+        "codigo": "WB01084O6000",
+        "precio": 645000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_12.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Mochila Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-001",
+        "titulo": "Billetera Furla Teddy",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP0031303B00",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_2.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-002",
+        "titulo": "Billetera Furla Dark Grey",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP004421257S",
+        "precio": 210000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Grey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_4.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Dark Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-003",
+        "titulo": "Billetera Furla Teddy",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00310RY000",
+        "precio": 135000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_7.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-004",
+        "titulo": "Billetera Furla Soft Cream",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00225B4L00",
+        "precio": 215000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Soft Cream"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_13.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Soft Cream. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-005",
+        "titulo": "Billetera Furla Soft Pink",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00441B4L00",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Soft Pink"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_14.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Soft Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-006",
+        "titulo": "Billetera Furla Soft Grey",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP003102814S",
+        "precio": 135000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Soft Grey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_16.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Soft Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-007",
+        "titulo": "Billetera Furla Dark Red",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP0045025165",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Red"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_28.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Dark Red. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-008",
+        "titulo": "Billetera Furla Teddy",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00450RY000",
+        "precio": 260000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_29.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-009",
+        "titulo": "Billetera Furla Texture Pink",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP004742814S",
+        "precio": 300000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Texture Pink"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_30.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Texture Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-010",
+        "titulo": "Billetera Furla Black",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00474O6000",
+        "precio": 300000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_31.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-011",
+        "titulo": "Billetera Furla Teddy",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00470YU500",
+        "precio": 120000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_54.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-012",
+        "titulo": "Billetera Furla Black",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00471O6000",
+        "precio": 175000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_55.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-013",
+        "titulo": "Billetera Furla Viniglia",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00441VAN00",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Viniglia"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_63.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Viniglia. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-014",
+        "titulo": "Billetera Furla Red",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00442267S",
+        "precio": 215000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Red"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_64.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Red. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-015",
+        "titulo": "Billetera Furla Grey",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP004513291S",
+        "precio": 215000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Grey"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_48.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-billeteras-016",
+        "titulo": "Billetera Furla Black",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "WP00442O6000",
+        "precio": 215000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_50.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-007",
+        "titulo": "Monedero Furla Black",
+        "categoria": "accesorios",
+        "seccion": "CARTERAS",
+        "tipo": "POCKET",
+        "codigo": "WP00314O6000",
+        "precio": 215000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/furla/carteras_furla_17.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Monedero Furla original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-001",
+        "titulo": "Llavero Furla Gold Flower",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "KEY RING",
+        "codigo": "WK003872673S",
+        "precio": 55000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Gold Flower"
+        ],
+        "imagenes": [
+          "/assets/img/furla/arti_culos_furla_1.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Llavero Furla original. Color Gold Flower. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-002",
+        "titulo": "Pañuelo Furla",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "HANDKERCHIEF",
+        "codigo": "WT000213389S",
+        "precio": 220000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/furla/arti_culos_furla_2.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pañuelo Furla original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-003",
+        "titulo": "Pañuelo Furla",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "HANDKERCHIEF",
+        "codigo": "WT000212561S",
+        "precio": 220000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/furla/arti_culos_furla_3.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pañuelo Furla original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-004",
+        "titulo": "Pañuelo Furla",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "HANDKERCHIEF",
+        "codigo": "WT000212703S",
+        "precio": 220000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/furla/arti_culos_furla_4.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pañuelo Furla original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-005",
+        "titulo": "Monedero Furla",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "POCKET",
+        "codigo": "WK0027606000",
+        "precio": 110000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/furla/arti_culos_furla_5.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Monedero Furla original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "furla-accesorios-006",
+        "titulo": "Monedero Furla",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "POCKET",
+        "codigo": "WK00276RT000",
+        "precio": 110000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/furla/arti_culos_furla_6.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Monedero Furla original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      }
+    ]
+  },
+  "bally": {
+    "nombre": "Bally",
+    "categorias": [
+      {
+        "id": "zapatos",
+        "nombre": "Zapatos",
+        "seccion": "Calzado",
+        "seccion_id": "ZAPATOS",
+        "cantidad": 7,
+        "portada": "/assets/img/bally/zapatos_bally_1.jpeg"
+      },
+      {
+        "id": "tacos",
+        "nombre": "Tacos",
+        "seccion": "Calzado",
+        "seccion_id": "ZAPATOS",
+        "cantidad": 5,
+        "portada": "/assets/img/bally/zapatos_bally_9.jpeg"
+      },
+      {
+        "id": "botas",
+        "nombre": "Botas",
+        "seccion": "Calzado",
+        "seccion_id": "ZAPATOS",
+        "cantidad": 1,
+        "portada": "/assets/img/bally/zapatos_bally_12.jpeg"
+      },
+      {
+        "id": "sandalias",
+        "nombre": "Sandalias",
+        "seccion": "Calzado",
+        "seccion_id": "ZAPATOS",
+        "cantidad": 2,
+        "portada": "/assets/img/bally/zapatos_bally_6.jpeg"
+      }
+    ],
+    "productos": [
+      {
+        "id": "bally-zapatos-001",
+        "titulo": "Zapato Bally Nero",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "SHOOSE",
+        "codigo": "B600059BLA",
+        "precio": 900000,
+        "moneda": "ARS",
+        "talles": [
+          "43",
+          "43,5",
+          "44"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_1.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-zapatos-002",
+        "titulo": "Zapato Bally Cobalt",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "SHOOSE",
+        "codigo": "B6303294SAG",
+        "precio": 780000,
+        "moneda": "ARS",
+        "talles": [
+          "42",
+          "44"
+        ],
+        "colores": [
+          "Cobalt"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_2.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Cobalt. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-zapatos-003",
+        "titulo": "Zapato Bally Board",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "SHOOSE",
+        "codigo": "B6239909HER",
+        "precio": 750000,
+        "moneda": "ARS",
+        "talles": [
+          "40",
+          "43,5"
+        ],
+        "colores": [
+          "Board"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_3.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Board. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-zapatos-004",
+        "titulo": "Zapato Bally Camel",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "SHOOSE",
+        "codigo": "BMSF041FOS",
+        "precio": 900000,
+        "moneda": "ARS",
+        "talles": [
+          "43,5"
+        ],
+        "colores": [
+          "Camel"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_4.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Camel. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-zapatos-005",
+        "titulo": "Zapato Bally Grey",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "SHOOSE",
+        "codigo": "B6303003SAS",
+        "precio": 750000,
+        "moneda": "ARS",
+        "talles": [
+          "44"
+        ],
+        "colores": [
+          "Grey"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_5.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-zapatos-006",
+        "titulo": "Zapato Bally Cheeta",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "W SHOES",
+        "codigo": "B6238153BON",
+        "precio": 930000,
+        "moneda": "ARS",
+        "talles": [
+          "36,5"
+        ],
+        "colores": [
+          "Cheeta"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_7.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Cheeta. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-zapatos-007",
+        "titulo": "Zapato Bally Violet",
+        "categoria": "zapatos",
+        "seccion": "ZAPATOS",
+        "tipo": "LITTLE SHOE",
+        "codigo": "B6235071SHI",
+        "precio": 600000,
+        "moneda": "ARS",
+        "talles": [
+          "35"
+        ],
+        "colores": [
+          "Violet"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_10.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Zapato Bally original. Color Violet. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-tacos-001",
+        "titulo": "Stiletto Bally Black",
+        "categoria": "tacos",
+        "seccion": "ZAPATOS",
+        "tipo": "HEELS",
+        "codigo": "BWS6503NAT",
+        "precio": 750000,
+        "moneda": "ARS",
+        "talles": [
+          "36",
+          "38"
+        ],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_9.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Stiletto Bally original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-tacos-002",
+        "titulo": "Stiletto Bally Logo Brown",
+        "categoria": "tacos",
+        "seccion": "ZAPATOS",
+        "tipo": "HEELS",
+        "codigo": "B6239480MCU",
+        "precio": 650000,
+        "moneda": "ARS",
+        "talles": [
+          "36,5"
+        ],
+        "colores": [
+          "Logo Brown"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_13.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Stiletto Bally original. Color Logo Brown. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-tacos-003",
+        "titulo": "Stiletto Bally Grey",
+        "categoria": "tacos",
+        "seccion": "ZAPATOS",
+        "tipo": "HEELS",
+        "codigo": "B6238669SAS",
+        "precio": 900000,
+        "moneda": "ARS",
+        "talles": [
+          "36"
+        ],
+        "colores": [
+          "Grey"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_14.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Stiletto Bally original. Color Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-tacos-004",
+        "titulo": "Stiletto Bally Black",
+        "categoria": "tacos",
+        "seccion": "ZAPATOS",
+        "tipo": "HEELS",
+        "codigo": "B6238200BLA",
+        "precio": 875000,
+        "moneda": "ARS",
+        "talles": [
+          "36"
+        ],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_15.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Stiletto Bally original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-tacos-005",
+        "titulo": "Taco Bally Brown",
+        "categoria": "tacos",
+        "seccion": "ZAPATOS",
+        "tipo": "VIKING HEEL",
+        "codigo": "B6238221BON",
+        "precio": 870000,
+        "moneda": "ARS",
+        "talles": [
+          "35"
+        ],
+        "colores": [
+          "Brown"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_11.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Taco Bally original. Color Brown. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-botas-001",
+        "titulo": "Bota Bally Cream",
+        "categoria": "botas",
+        "seccion": "ZAPATOS",
+        "tipo": "BOOTS",
+        "codigo": "B6239416BON",
+        "precio": 925000,
+        "moneda": "ARS",
+        "talles": [
+          "37"
+        ],
+        "colores": [
+          "Cream"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_12.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bota Bally original. Color Cream. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-sandalias-001",
+        "titulo": "Ojota Bally Red",
+        "categoria": "sandalias",
+        "seccion": "ZAPATOS",
+        "tipo": "FLIP FLOPS",
+        "codigo": "BMSS029ORA",
+        "precio": 350000,
+        "moneda": "ARS",
+        "talles": [
+          "40",
+          "43"
+        ],
+        "colores": [
+          "Red"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_6.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Ojota Bally original. Color Red. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "bally-sandalias-002",
+        "titulo": "Sandalia Bally Cream",
+        "categoria": "sandalias",
+        "seccion": "ZAPATOS",
+        "tipo": "SANDALS W",
+        "codigo": "BWF101BBON",
+        "precio": 750000,
+        "moneda": "ARS",
+        "talles": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "colores": [
+          "Cream"
+        ],
+        "imagenes": [
+          "/assets/img/bally/zapatos_bally_8.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Sandalia Bally original. Color Cream. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      }
+    ]
+  },
+  "liujo": {
+    "nombre": "Liu Jo",
+    "categorias": [
+      {
+        "id": "bolsos",
+        "nombre": "Bolsos",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 14,
+        "portada": "/assets/img/liujo/carteras_liujo_7.jpeg"
+      },
+      {
+        "id": "carteras",
+        "nombre": "Carteras",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 7,
+        "portada": "/assets/img/liujo/carteras_liujo_29.jpeg"
+      },
+      {
+        "id": "bandoleras",
+        "nombre": "Bandoleras",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 5,
+        "portada": "/assets/img/liujo/carteras_liujo_9.jpeg"
+      },
+      {
+        "id": "billeteras",
+        "nombre": "Billeteras",
+        "seccion": "Carteras y bolsos",
+        "seccion_id": "CARTERAS",
+        "cantidad": 11,
+        "portada": "/assets/img/liujo/carteras_liujo_1.jpeg"
+      },
+      {
+        "id": "vestidos",
+        "nombre": "Vestidos",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 19,
+        "portada": "/assets/img/liujo/ropa_liujo_3.jpeg"
+      },
+      {
+        "id": "camperas",
+        "nombre": "Camperas",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 15,
+        "portada": "/assets/img/liujo/ropa_liujo_10.jpeg"
+      },
+      {
+        "id": "sweaters",
+        "nombre": "Sweaters",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 11,
+        "portada": "/assets/img/liujo/ropa_liujo_1.jpeg"
+      },
+      {
+        "id": "blusas",
+        "nombre": "Blusas",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 4,
+        "portada": "/assets/img/liujo/ropa_liujo_22.jpeg"
+      },
+      {
+        "id": "remeras",
+        "nombre": "Remeras",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 3,
+        "portada": "/assets/img/liujo/ropa_liujo_6.jpeg"
+      },
+      {
+        "id": "pantalones",
+        "nombre": "Pantalones",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 2,
+        "portada": "/assets/img/liujo/ropa_liujo_15.jpeg"
+      },
+      {
+        "id": "chalecos",
+        "nombre": "Chalecos",
+        "seccion": "Ropa",
+        "seccion_id": "ROPA",
+        "cantidad": 1,
+        "portada": "/assets/img/liujo/ropa_liujo_16.jpeg"
+      },
+      {
+        "id": "accesorios",
+        "nombre": "Accesorios",
+        "seccion": "Accesorios",
+        "seccion_id": "ARTICULOS",
+        "cantidad": 6,
+        "portada": "/assets/img/liujo/arti_culos_liujo_3.jpeg"
+      }
+    ],
+    "productos": [
+      {
+        "id": "liujo-bolsos-001",
+        "titulo": "Bolso Liu Jo Nero",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5132E0015",
+        "precio": 197000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_5.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Bolso Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-002",
+        "titulo": "Bolso Liu Jo Deer",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA4097E0513",
+        "precio": 297000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Deer"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_6.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Bolso Liu Jo original. Color Deer. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-003",
+        "titulo": "Bolso Liu Jo Camello",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5132E0015",
+        "precio": 197000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Camello"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_7.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Camello. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-004",
+        "titulo": "Bolso Liu Jo Cuoio Chiaro",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA4011E002936",
+        "precio": 270000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cuoio Chiaro"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_8.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Cuoio Chiaro. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-005",
+        "titulo": "Bolso Liu Jo Dark Pink",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5127E0015",
+        "precio": 182000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Pink"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_10.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Dark Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-006",
+        "titulo": "Bolso Liu Jo Nero",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5141E0886",
+        "precio": 196000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_11.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-007",
+        "titulo": "Bolso Liu Jo Dark Pink",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5126E0015",
+        "precio": 160000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Pink"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_13.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Dark Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-008",
+        "titulo": "Bolso Liu Jo Denim",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5132",
+        "precio": 250000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Denim"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_18.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Denim. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-009",
+        "titulo": "Bolso Liu Jo Dark Sand",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5148",
+        "precio": 210000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Sand"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_21.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Dark Sand. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-010",
+        "titulo": "Bolso Liu Jo Nero",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AA5058",
+        "precio": 230000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_25.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-011",
+        "titulo": "Bolso Liu Jo Pearl Grey Metalizz",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "BAG",
+        "codigo": "AF4269",
+        "precio": 243000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pearl Grey Metalizz"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_28.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso Liu Jo original. Color Pearl Grey Metalizz. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-012",
+        "titulo": "Bolso de cuero Liu Jo Cipria",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "LEATHER BAG",
+        "codigo": "AA5141",
+        "precio": 196000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cipria"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_22.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso de cuero Liu Jo original. Color Cipria. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-013",
+        "titulo": "Bolso de cuero Liu Jo Nero",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "LEATHE BAG",
+        "codigo": "AA5141",
+        "precio": 196000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_27.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso de cuero Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bolsos-014",
+        "titulo": "Bolso hobo Liu Jo Off White",
+        "categoria": "bolsos",
+        "seccion": "CARTERAS",
+        "tipo": "HOBO BAG",
+        "codigo": "AA4001",
+        "precio": 216000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Off White"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_24.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bolso hobo Liu Jo original. Color Off White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-001",
+        "titulo": "Cartera Liu Jo Cream",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HAND BAG",
+        "codigo": "AA5058",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cream"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_29.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Liu Jo original. Color Cream. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-002",
+        "titulo": "Cartera Liu Jo Cipria",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "AA5140",
+        "precio": 120000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cipria"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_31.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Liu Jo original. Color Cipria. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-003",
+        "titulo": "Cartera Liu Jo Black",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "AA4161",
+        "precio": 180000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_32.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Liu Jo original. Color Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-004",
+        "titulo": "Cartera Liu Jo Texture Teddy",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "AA4161",
+        "precio": 180000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Texture Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_33.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Liu Jo original. Color Texture Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-005",
+        "titulo": "Cartera Liu Jo Off White",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "HANDBAG",
+        "codigo": "AA4250",
+        "precio": 140000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Off White"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_34.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera Liu Jo original. Color Off White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-006",
+        "titulo": "Cartera de mano Liu Jo Pastel Lavender",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "SMALL HAND",
+        "codigo": "AA4007E001209",
+        "precio": 180000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pastel Lavender"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_15.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera de mano Liu Jo original. Color Pastel Lavender. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-carteras-007",
+        "titulo": "Cartera de mano Liu Jo Black Logo",
+        "categoria": "carteras",
+        "seccion": "CARTERAS",
+        "tipo": "SMALL HAND",
+        "codigo": "AA4281",
+        "precio": 240000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Black Logo"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_20.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Cartera de mano Liu Jo original. Color Black Logo. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bandoleras-001",
+        "titulo": "Bandolera Liu Jo Cobalt",
+        "categoria": "bandoleras",
+        "seccion": "CARTERAS",
+        "tipo": "COSS OVER",
+        "codigo": "AF4269E0918",
+        "precio": 216000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cobalt"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_9.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bandolera Liu Jo original. Color Cobalt. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bandoleras-002",
+        "titulo": "Bandolera Liu Jo Nero",
+        "categoria": "bandoleras",
+        "seccion": "CARTERAS",
+        "tipo": "CROS OVER",
+        "codigo": "AA5148E0886",
+        "precio": 207000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_14.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bandolera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bandoleras-003",
+        "titulo": "Bandolera Liu Jo Cream",
+        "categoria": "bandoleras",
+        "seccion": "CARTERAS",
+        "tipo": "CROSS OVER",
+        "codigo": "AA5127",
+        "precio": 170999,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Cream"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_19.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bandolera Liu Jo original. Color Cream. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bandoleras-004",
+        "titulo": "Bandolera Liu Jo Fucsia",
+        "categoria": "bandoleras",
+        "seccion": "CARTERAS",
+        "tipo": "CROSS OVER",
+        "codigo": "AF4269",
+        "precio": 216000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Fucsia"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_23.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Bandolera Liu Jo original. Color Fucsia. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-bandoleras-005",
+        "titulo": "Riñonera Liu Jo Off White",
+        "categoria": "bandoleras",
+        "seccion": "CARTERAS",
+        "tipo": "WAIST PACK",
+        "codigo": "AA4262E0036",
+        "precio": 176000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Off White"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_16.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Riñonera Liu Jo original. Color Off White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-001",
+        "titulo": "Billetera Liu Jo True Champagne",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA4060E008701",
+        "precio": 126000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "True Champagne"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_1.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color True Champagne. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-002",
+        "titulo": "Billetera Liu Jo Pastel Lavender",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA4179E008709",
+        "precio": 81000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pastel Lavender"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_2.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Pastel Lavender. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-003",
+        "titulo": "Billetera Liu Jo Off White",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "Wallet",
+        "codigo": "AA4009E0012",
+        "precio": 100000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Off White"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_3.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Off White. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-004",
+        "titulo": "Billetera Liu Jo Teddy Logo",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA4161E0003",
+        "precio": 126000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy Logo"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_4.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Billetera Liu Jo original. Color Teddy Logo. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-005",
+        "titulo": "Billetera Liu Jo Viva Magenta",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA4279",
+        "precio": 140000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Viva Magenta"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_30.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Viva Magenta. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-006",
+        "titulo": "Billetera Liu Jo Gold",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA5155",
+        "precio": 135000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Gold"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_36.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Gold. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-007",
+        "titulo": "Billetera Liu Jo Meg Rose",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA4291",
+        "precio": 126000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Meg Rose"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_37.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Meg Rose. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-008",
+        "titulo": "Billetera Liu Jo Soft Peach",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA4280",
+        "precio": 120000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Soft Peach"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_38.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Soft Peach. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-009",
+        "titulo": "Billetera Liu Jo Pumpkin",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "WALLET",
+        "codigo": "AA5140",
+        "precio": 120000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Pumpkin"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_39.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Billetera Liu Jo original. Color Pumpkin. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-010",
+        "titulo": "Portafolio Liu Jo Dark Pink",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "PORTOFOLIO",
+        "codigo": "AA5154E0087",
+        "precio": 92000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Dark Pink"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_12.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Portafolio Liu Jo original. Color Dark Pink. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-billeteras-011",
+        "titulo": "Estuche Liu Jo Meg Rose",
+        "categoria": "billeteras",
+        "seccion": "CARTERAS",
+        "tipo": "CASE",
+        "codigo": "AA4265E003606",
+        "precio": 145000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Meg Rose"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/carteras_liujo_17.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Estuche Liu Jo original. Color Meg Rose. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-001",
+        "titulo": "Vestido Liu Jo Nero",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "WA5085 T0347",
+        "precio": 185000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "XL"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_3.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-002",
+        "titulo": "Vestido Liu Jo Very Leopard",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "WA5331 T6867",
+        "precio": 210000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Very Leopard"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_8.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Very Leopard. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-003",
+        "titulo": "Vestido Liu Jo Nero",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "WA5351 TO414",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_9.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-004",
+        "titulo": "Vestido Liu Jo Nero",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA5202 TS922",
+        "precio": 213000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_12.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-005",
+        "titulo": "Vestido Liu Jo Bianco Lana Brush",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "WA4031T3778",
+        "precio": 288000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "M"
+        ],
+        "colores": [
+          "Bianco Lana Brush"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_21.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Bianco Lana Brush. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-006",
+        "titulo": "Vestido Liu Jo Rose Plie",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4012 MS014",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Rose Plie"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_23.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Rose Plie. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-007",
+        "titulo": "Vestido Liu Jo Nero Lux",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4039",
+        "precio": 290000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Nero Lux"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_27.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero Lux. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-008",
+        "titulo": "Vestido Liu Jo Ivory Neutro",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4130 J4645",
+        "precio": 235000,
+        "moneda": "ARS",
+        "talles": [
+          "XS"
+        ],
+        "colores": [
+          "Ivory Neutro"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_31.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Ivory Neutro. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-009",
+        "titulo": "Vestido Liu Jo Nero",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4139 J7912",
+        "precio": 213000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_32.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-010",
+        "titulo": "Vestido Liu Jo G Acid Flower",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4234T324747",
+        "precio": 215000,
+        "moneda": "ARS",
+        "talles": [
+          "M",
+          "L"
+        ],
+        "colores": [
+          "G Acid Flower"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_39.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color G Acid Flower. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-011",
+        "titulo": "Vestido Liu Jo Light Ivory",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4242",
+        "precio": 185000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Light Ivory"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_40.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Light Ivory. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-012",
+        "titulo": "Vestido Liu Jo Light Ivory",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TA4264JS08804",
+        "precio": 233000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Light Ivory"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_41.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Light Ivory. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-013",
+        "titulo": "Vestido Liu Jo Nero",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "MA4009 MS52N",
+        "precio": 254000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_42.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-014",
+        "titulo": "Vestido Liu Jo Calipso",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "MA4010",
+        "precio": 369000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Calipso"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_43.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Calipso. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-015",
+        "titulo": "Vestido Liu Jo Nero",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "MA4056MS52N22",
+        "precio": 295000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "L"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_44.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-016",
+        "titulo": "Vestido Liu Jo Mistery",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "MA4096",
+        "precio": 299000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Mistery"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_48.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color Mistery. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-017",
+        "titulo": "Vestido Liu Jo White And Black",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "DRESS",
+        "codigo": "TF4151",
+        "precio": 310000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "White And Black"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_52.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido Liu Jo original. Color White And Black. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-018",
+        "titulo": "Vestido sweater Liu Jo Dark Ginger",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "SWEATERDRESS",
+        "codigo": "WF4417 MA43P",
+        "precio": 210000,
+        "moneda": "ARS",
+        "talles": [
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Dark Ginger"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_18.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido sweater Liu Jo original. Color Dark Ginger. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-vestidos-019",
+        "titulo": "Vestido sweater Liu Jo Pearl Grey",
+        "categoria": "vestidos",
+        "seccion": "ROPA",
+        "tipo": "SWEATERDRESS",
+        "codigo": "WF4534 MA43P",
+        "precio": 210000,
+        "moneda": "ARS",
+        "talles": [
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Pearl Grey"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_20.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Vestido sweater Liu Jo original. Color Pearl Grey. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-001",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA5132 T3377",
+        "precio": 210000,
+        "moneda": "ARS",
+        "talles": [
+          "S"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_10.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-002",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA5200 TS922",
+        "precio": 245000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_11.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-003",
+        "titulo": "Campera Liu Jo White Milk",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA5260 TS423",
+        "precio": 250000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "M"
+        ],
+        "colores": [
+          "White Milk"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_13.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color White Milk. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-004",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "WF4425 E0624",
+        "precio": 310000,
+        "moneda": "ARS",
+        "talles": [
+          "XS"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_19.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-005",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA4018 J4623",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "M"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_24.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-006",
+        "titulo": "Campera Liu Jo Sabbia",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA4037 TS031",
+        "precio": 295000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Sabbia"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_26.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Sabbia. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-007",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA4062",
+        "precio": 285000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_28.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-008",
+        "titulo": "Campera Liu Jo Light Ivory",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA4154T378404",
+        "precio": 310000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Light Ivory"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_34.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Light Ivory. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-009",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA4154 T3784",
+        "precio": 310000,
+        "moneda": "ARS",
+        "talles": [
+          "L"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_35.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-010",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TA4226 J4660",
+        "precio": 255000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_38.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-011",
+        "titulo": "Campera Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "JACKET",
+        "codigo": "TF4181 J4523",
+        "precio": 190000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_54.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-012",
+        "titulo": "Campera acolchada Liu Jo Light Ivory",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "PADDED JACKET",
+        "codigo": "TA4035",
+        "precio": 299000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Light Ivory"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_25.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera acolchada Liu Jo original. Color Light Ivory. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-013",
+        "titulo": "Campera acolchada Liu Jo Nero",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "PADDED JACKET",
+        "codigo": "TF4126 T2600",
+        "precio": 510000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "L"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_50.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Campera acolchada Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-014",
+        "titulo": "Campera puffer Liu Jo Camello",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "DOWN JACKET",
+        "codigo": "TF4137",
+        "precio": 510000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Camello"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_51.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Campera puffer Liu Jo original. Color Camello. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-camperas-015",
+        "titulo": "Campera de vestir Liu Jo Nero Jazmin",
+        "categoria": "camperas",
+        "seccion": "ROPA",
+        "tipo": "DRESS JACKET",
+        "codigo": "TF4186 J4750",
+        "precio": 220000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Nero Jazmin"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_55.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Campera de vestir Liu Jo original. Color Nero Jazmin. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-001",
+        "titulo": "Sweater Liu Jo Noisette",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATER",
+        "codigo": "WA5053",
+        "precio": 185000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "L"
+        ],
+        "colores": [
+          "Noisette"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_1.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Sweater Liu Jo original. Color Noisette. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-002",
+        "titulo": "Sweater Liu Jo Noissete",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATER",
+        "codigo": "WA5054 MS49I",
+        "precio": 135000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Noissete"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_2.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Sweater Liu Jo original. Color Noissete. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-003",
+        "titulo": "Sweater Liu Jo Bianco Iana",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATER",
+        "codigo": "WA5118 MA02Q",
+        "precio": 185000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Bianco Iana"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_4.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Sweater Liu Jo original. Color Bianco Iana. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-004",
+        "titulo": "Sweater Liu Jo Nero Stars",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATER",
+        "codigo": "WA5119 MA02Q",
+        "precio": 185000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Nero Stars"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_5.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Sweater Liu Jo original. Color Nero Stars. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-005",
+        "titulo": "Sweater Liu Jo Grigio Melange",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATER",
+        "codigo": "WF4358 MA55P",
+        "precio": 267000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S"
+        ],
+        "colores": [
+          "Grigio Melange"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_17.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Sweater Liu Jo original. Color Grigio Melange. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-006",
+        "titulo": "Sweater Liu Jo White Sugar",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATER",
+        "codigo": "TF4158 MS63M",
+        "precio": 240000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "White Sugar"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_53.jpeg"
+        ],
+        "recorte": "top",
+        "descripcion": "Sweater Liu Jo original. Color White Sugar. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-007",
+        "titulo": "Buzo Liu Jo Nuage",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATSHIRT",
+        "codigo": "TA5261",
+        "precio": 190000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Nuage"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_14.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Buzo Liu Jo original. Color Nuage. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-008",
+        "titulo": "Buzo Liu Jo Light Ivory Nero",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATSHIRT",
+        "codigo": "TA4085 FS927",
+        "precio": 245000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Light Ivory Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_29.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Buzo Liu Jo original. Color Light Ivory Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-009",
+        "titulo": "Buzo Liu Jo Light Ivory",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATSHIRT",
+        "codigo": "TA4170",
+        "precio": 190000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Light Ivory"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_36.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Buzo Liu Jo original. Color Light Ivory. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-010",
+        "titulo": "Buzo Liu Jo Nero Strass",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SWEATSHIRT",
+        "codigo": "TA4170FS09080",
+        "precio": 190000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Nero Strass"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_37.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Buzo Liu Jo original. Color Nero Strass. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-sweaters-011",
+        "titulo": "Sweater camisero Liu Jo Aurorapinknero",
+        "categoria": "sweaters",
+        "seccion": "ROPA",
+        "tipo": "SHIRT SWEATER",
+        "codigo": "TA4103MS01513",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S"
+        ],
+        "colores": [
+          "Aurorapinknero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_30.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Sweater camisero Liu Jo original. Color Aurorapinknero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-blusas-001",
+        "titulo": "Camisa Liu Jo Nero",
+        "categoria": "blusas",
+        "seccion": "ROPA",
+        "tipo": "DRESS SHIRT",
+        "codigo": "WA4078 MS49I",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [
+          "M"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_22.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Camisa Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-blusas-002",
+        "titulo": "Blusa Liu Jo Mistery",
+        "categoria": "blusas",
+        "seccion": "ROPA",
+        "tipo": "BLOUSE",
+        "codigo": "MA4094 J4703",
+        "precio": 252000,
+        "moneda": "ARS",
+        "talles": [
+          "XXS",
+          "XS"
+        ],
+        "colores": [
+          "Mistery"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_45.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Blusa Liu Jo original. Color Mistery. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-blusas-003",
+        "titulo": "Blusa Liu Jo Bianco Lana",
+        "categoria": "blusas",
+        "seccion": "ROPA",
+        "tipo": "BLOUSE",
+        "codigo": "MA4095 J4703",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Bianco Lana"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_46.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Blusa Liu Jo original. Color Bianco Lana. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-blusas-004",
+        "titulo": "Blusa Liu Jo Mistery",
+        "categoria": "blusas",
+        "seccion": "ROPA",
+        "tipo": "BLOUSE",
+        "codigo": "MA4095J470331",
+        "precio": 225000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Mistery"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_47.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Blusa Liu Jo original. Color Mistery. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-remeras-001",
+        "titulo": "Remera Liu Jo Nero",
+        "categoria": "remeras",
+        "seccion": "ROPA",
+        "tipo": "T-SHIRT",
+        "codigo": "WA5183",
+        "precio": 110000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_6.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Remera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-remeras-002",
+        "titulo": "Remera Liu Jo Bianco",
+        "categoria": "remeras",
+        "seccion": "ROPA",
+        "tipo": "T-SHIRT",
+        "codigo": "WA5183",
+        "precio": 110000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Bianco"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_7.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Remera Liu Jo original. Color Bianco. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-remeras-003",
+        "titulo": "Remera Liu Jo Nero",
+        "categoria": "remeras",
+        "seccion": "ROPA",
+        "tipo": "T/SHIRT",
+        "codigo": "TF4021",
+        "precio": 99000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_49.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Remera Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-pantalones-001",
+        "titulo": "Pantalón Liu Jo White Milk",
+        "categoria": "pantalones",
+        "seccion": "ROPA",
+        "tipo": "PANTS",
+        "codigo": "TA5264 TS423",
+        "precio": 185000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "White Milk"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_15.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pantalón Liu Jo original. Color White Milk. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-pantalones-002",
+        "titulo": "Pantalón Liu Jo Light Ivory",
+        "categoria": "pantalones",
+        "seccion": "ROPA",
+        "tipo": "PANTS",
+        "codigo": "TA4141 T3820",
+        "precio": 265000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "M",
+          "L"
+        ],
+        "colores": [
+          "Light Ivory"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_33.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pantalón Liu Jo original. Color Light Ivory. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-chalecos-001",
+        "titulo": "Chaleco Liu Jo Nero",
+        "categoria": "chalecos",
+        "seccion": "ROPA",
+        "tipo": "WAISTCOAT",
+        "codigo": "WF4062",
+        "precio": 390000,
+        "moneda": "ARS",
+        "talles": [
+          "XS",
+          "S",
+          "M"
+        ],
+        "colores": [
+          "Nero"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/ropa_liujo_16.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Chaleco Liu Jo original. Color Nero. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-accesorios-001",
+        "titulo": "Llavero Liu Jo Brass Gold",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "KEYRING",
+        "codigo": "AA5106",
+        "precio": 52000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Brass Gold"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/arti_culos_liujo_3.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Llavero Liu Jo original. Color Brass Gold. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-accesorios-002",
+        "titulo": "Llavero Liu Jo Brass Gold",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "KEYRING",
+        "codigo": null,
+        "precio": 52000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Brass Gold"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/arti_culos_liujo_2.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Llavero Liu Jo original. Color Brass Gold. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-accesorios-003",
+        "titulo": "Llavero Liu Jo Teddy",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "KEY RING",
+        "codigo": "AA4194E002234",
+        "precio": 58500,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Teddy"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/arti_culos_liujo_4.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Llavero Liu Jo original. Color Teddy. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-accesorios-004",
+        "titulo": "Llavero Liu Jo Gold Tourtle",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "KEYRING",
+        "codigo": "AA5116",
+        "precio": 58000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [
+          "Gold Tourtle"
+        ],
+        "imagenes": [
+          "/assets/img/liujo/arti_culos_liujo_5.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Llavero Liu Jo original. Color Gold Tourtle. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-accesorios-005",
+        "titulo": "Pañuelo Liu Jo",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "HANDKERCHIEF",
+        "codigo": "2A4001T030022",
+        "precio": 170000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/liujo/arti_culos_liujo_6.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pañuelo Liu Jo original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      },
+      {
+        "id": "liujo-accesorios-006",
+        "titulo": "Pañuelo Liu Jo",
+        "categoria": "accesorios",
+        "seccion": "ARTICULOS",
+        "tipo": "HANDKERCHIEF",
+        "codigo": "2A4047",
+        "precio": 90000,
+        "moneda": "ARS",
+        "talles": [],
+        "colores": [],
+        "imagenes": [
+          "/assets/img/liujo/arti_culos_liujo_7.jpeg"
+        ],
+        "recorte": null,
+        "descripcion": "Pañuelo Liu Jo original. Pieza importada, disponible en showroom. Consultanos por WhatsApp para coordinar entrega.",
+        "stock": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+/* ============================================================
+   FURLA — piel visual
+   Inspirado en la identidad de la casa: cuero italiano, paleta
+   de tierras y camel, mucho aire, tipografia serif ligera.
+   (Interpretacion propia, sin usar assets ni logos de la marca.)
+   ============================================================ */
+body.brand--furla{
+  --b-ink:#2A2019;
+  --b-bg:#FCFAF7;
+  --b-soft:#F2EAE0;
+  --b-line:#E5DBCE;
+  --b-muted:#8A7B6C;
+  --b-accent:#A96B37;
+  --b-accent-soft:#D9AE84;
+  --b-hero-bg:#F2EAE0;
+  --b-font:'Inter',system-ui,sans-serif;
+  --b-display:'Cormorant Garamond',Georgia,serif;
+  --b-radius:3px;
+  --b-track:0;
+  --b-logo-track:.28em;
+  --b-title-track:-.01em;
+  --b-strip-muted:rgba(252,250,247,.68);
+  --b-strip-line:rgba(252,250,247,.18);
+  --sel:#A96B37;--sel-fg:#fff;
+}
+body.brand--furla .bhero__title,
+body.brand--furla .cat-title,
+body.brand--furla .prod__title{font-weight:300}
+body.brand--furla .bheader__logo{font-weight:500;font-size:1.4rem}
+body.brand--furla .bhero__title em{font-style:italic;color:var(--b-accent)}
+/* filete camel sobre el hero */
+body.brand--furla .bhero::after{
+  content:'';position:absolute;left:0;right:0;bottom:0;height:3px;
+  background:linear-gradient(90deg,var(--b-accent),#D9AE84,var(--b-accent))
+}
