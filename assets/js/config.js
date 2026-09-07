@@ -31,7 +31,7 @@ window.FF_CONFIG = {
   /* ---------- 4. DATOS DE CONTACTO / REDES (footer) ---------- */
   CONTACTO: {
     email: 'hola@fashionforward.com.ar',
-    telefono: '+54 9 11 0000-0000',
+    telefono: '+54 9 11 6956-2789',
     direccion: 'Showroom con cita previa — Buenos Aires, Argentina',
     horario: 'Lun a Vie 10 a 19 h · Sáb 10 a 14 h'
   },
