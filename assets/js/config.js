@@ -10,7 +10,7 @@ window.FF_CONFIG = {
   /* ---------- 1. WHATSAPP ----------
      Formato internacional SIN el "+", SIN el 0 de area y SIN el 15.
      Ej: celular 11 5555-4444 de Buenos Aires  ->  "5491155554444"        */
-  WHATSAPP_NUMBER: '5491100000000',   // <-- REEMPLAZAR POR EL NUMERO REAL
+  WHATSAPP_NUMBER: '5491169562789',
 
   // Mensaje del boton flotante (todas las paginas menos el carrito)
   WHATSAPP_MESSAGE: '¡Hola! Quería consultar sobre sus productos.',

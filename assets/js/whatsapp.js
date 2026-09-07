@@ -27,22 +27,23 @@
   /* ---------- mensaje de pedido completo (carrito) ---------- */
   FF.waPedido = function (slug, items, total) {
     var marca = (CFG.MARCAS[slug] || {}).nombre || slug;
-    var lineas = ['*Nuevo pedido — Fashion Forward*', 'Marca: *' + marca + '*', ''];
+    var lineas = ['Hola Fashion Forward, me gustaría consultar por estos productos de ' + marca + ':', ''];
 
     items.forEach(function (i, n) {
-      lineas.push((n + 1) + '. *' + i.titulo + '*');
-      if (i.codigo) lineas.push('   Código: ' + i.codigo);
-      if (i.color) lineas.push('   Color: ' + i.color);
-      if (i.talle) lineas.push('   Talle: ' + i.talle);
-      lineas.push('   Cantidad: ' + i.cantidad);
-      lineas.push('   Precio unitario: ' + FF.money(i.precio));
-      lineas.push('   Subtotal: ' + FF.money(i.precio * i.cantidad));
-      lineas.push('');
+      var detalle = [];
+      if (i.color) detalle.push('Color: ' + i.color);
+      if (i.talle) detalle.push('Talle: ' + i.talle);
+      detalle.push('Cantidad: ' + i.cantidad);
+      detalle.push('Precio: ' + FF.money(i.precio) + ' c/u (subtotal ' + FF.money(i.precio * i.cantidad) + ')');
+
+      lineas.push((n + 1) + '. ' + i.titulo);
+      lineas.push('   ' + detalle.join(' — '));
     });
 
-    lineas.push('*TOTAL: ' + FF.money(total) + '*');
     lineas.push('');
-    lineas.push('Quedo a la espera para coordinar pago y envío. ¡Gracias!');
+    lineas.push('Total del pedido: ' + FF.money(total));
+    lineas.push('');
+    lineas.push('¿Me confirman disponibilidad y cómo continuar?');
     return lineas.join('\n');
   };
 
